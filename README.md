@@ -14,9 +14,19 @@ Hi, I'm Mrityunjay Pathak, a Data Scientist.
 
 I build and deploy end-to-end data and machine learning systems, turning ideas into working products.
 
+Some of the projects I've built include [AutoIQ](https://github.com/themrityunjaypathak/AutoIQ), [Dashly](https://github.com/themrityunjaypathak/Dashly), and [Pickify](https://github.com/themrityunjaypathak/Pickify).
+
 I also write about ML, MLOps, and the practical lessons I've learned while building and shipping systems into production.
 
-Connect with me on : [Kaggle](https://www.kaggle.com/themrityunjaypathak)&nbsp;•&nbsp;[LinkedIn](https://www.linkedin.com/in/themrityunjaypathak)&nbsp;•&nbsp;[Medium](https://medium.com/@themrityunjaypathak)
+You can explore more of my work on [LinkedIn](https://www.linkedin.com/in/themrityunjaypathak).
+
+<br>
+
+<div align="center">
+
+[Kaggle](https://www.kaggle.com/themrityunjaypathak)&nbsp;&nbsp;✦&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/themrityunjaypathak)&nbsp;&nbsp;✦&nbsp;&nbsp;[Medium](https://medium.com/@themrityunjaypathak)&nbsp;&nbsp;✦&nbsp;&nbsp;[Portfolio](https://themrityunjaypathak.github.io)
+
+</div>
 
 </strong>
 
