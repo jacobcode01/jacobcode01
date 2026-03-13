@@ -20,8 +20,6 @@ I also write about ML, MLOps, and the practical lessons I've learned while build
 
 You can explore more of my work on [LinkedIn](https://www.linkedin.com/in/themrityunjaypathak).
 
-<hr>
-
 <div align="center">
 
 [Kaggle](https://www.kaggle.com/themrityunjaypathak)&nbsp;&nbsp;✦&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/themrityunjaypathak)&nbsp;&nbsp;✦&nbsp;&nbsp;[Medium](https://medium.com/@themrityunjaypathak)&nbsp;&nbsp;✦&nbsp;&nbsp;[Portfolio](https://themrityunjaypathak.github.io)
@@ -29,5 +27,3 @@ You can explore more of my work on [LinkedIn](https://www.linkedin.com/in/themri
 </div>
 
 </strong>
-
-
