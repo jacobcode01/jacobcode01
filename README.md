@@ -20,7 +20,7 @@ I also write about ML, MLOps, and the practical lessons I've learned while build
 
 You can explore more of my work on [LinkedIn](https://www.linkedin.com/in/themrityunjaypathak).
 
-<br>
+<hr>
 
 <div align="center">
 
